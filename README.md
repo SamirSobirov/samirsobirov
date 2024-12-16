@@ -4,7 +4,7 @@
 
 ### 👨‍💻: Обо мне:
 
-Я фронтенд разработчик <img src="https://media.giphy.com/media/WUIplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой
+Я фронтенд разработчик <img src="https://media.giphy.com/media/WUIplcMpOCEmTGBtBW/giphy.gif" width="30px">
 
 
 <h3 align="left">🛠 Технологии:</h3>
