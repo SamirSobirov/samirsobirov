@@ -1,7 +1,8 @@
-## Hi there 👋
+## Привет, Меня зовут Самир! 👋
 
-👋 Hi, I’m Samir Sobirov, a frontend react and vue developer
-Reach me at [@southpaw9005]([url](https://t.me/southpaw9005))
+### 👨‍💻: Обо мне:
+
+Я фронтенд разработчик <img src="https://media.giphy.com/media/WUIplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой
 
 Languages and Tools:
-javascript vuejs React tailwind
+<img src="https://github.com/devicons/blob/master/icons/react/react-original.svg" title="reactjs" alt="reactjs" width="40" height="40" />&nbsp
