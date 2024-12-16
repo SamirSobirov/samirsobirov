@@ -2,7 +2,7 @@
 
 ## Привет, Меня зовут Самир! 👋
 
-### 👨‍💻: Обо мне:
+### 👨‍💻: Обо мне👨‍💻:
 
 Я фронтенд разработчик <img src="https://media.giphy.com/media/WUIplcMpOCEmTGBtBW/giphy.gif" width="30px">
 
